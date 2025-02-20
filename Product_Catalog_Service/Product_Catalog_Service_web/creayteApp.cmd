@@ -1,0 +1,1 @@
+rem npx create-react-app product-catalog
