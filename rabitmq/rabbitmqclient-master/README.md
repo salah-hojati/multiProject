@@ -1,2 +1,0 @@
-# rabbitmqclient
-Experiments with RabbitTemplate

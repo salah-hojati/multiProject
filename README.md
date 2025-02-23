@@ -5,7 +5,11 @@ This project was created to find solutions and platforms for some purposes. (I a
 ## Planned Projects
 
 - **Online Store**
-    - Product Catalog Service
+    - Product Catalog 
+       - rbbitMq  samples 
+       - jhipster
+       - simple spring boot
+       - simple react
     - Order Management Service
     - Payment Processing Service
     - Recommendation Engine
