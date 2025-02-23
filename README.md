@@ -5,7 +5,7 @@ This project was created to find solutions and platforms for some purposes. (I a
 ## Planned Projects
 
 - **Online Store**
-    - Product Catalog 
+    - [Product Catalog](./Product_Catalog_Service/Product_Catalog_Service.md) 
        - rbbitMq  samples 
        - jhipster
        - simple spring boot
