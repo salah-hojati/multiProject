@@ -40,14 +40,18 @@ RUN java -version
 RUN java -jar /app/fmw_12.2.1.3.0_infrastructure.jar -silent -responseFile /app/response.rsp -invPtrLoc /app/oraInst.loc
  #   || \cat /app/installLogs.log
 
+    # Delete WebLogic installer files after installation
+RUN rm -rf /app/fmw_12.2.1.3.0_infrastructure.jar
+
 # Set WebLogic environment variables
 ENV WL_HOME=/opt/weblogic/wlserver
 ENV DOMAIN_HOME=/opt/weblogic/user_projects/domains/base_domain
 ENV PATH="$WL_HOME/server/bin:$PATH"
 
+
 # Create WebLogic Domain using WLST
 RUN . $WL_HOME/server/bin/setWLSEnv.sh && \
-    java weblogic.WLST /app/create_domain.py
+    java weblogic.WLST /app/create_domain.py \
 
 # Expose WebLogic ports
 EXPOSE 7001 9002
