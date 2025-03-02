@@ -1,0 +1,41 @@
+[ENGINE]
+Response File Version=1.0.0.0.0
+
+[GENERIC]
+# Set the middleware home directory
+MiddlewareHome=/opt/weblogic
+
+# Set Oracle home and WebLogic home
+ORACLE_HOME=/opt/weblogic
+WL_HOME=/opt/weblogic/wlserver
+
+# Set the location of the WebLogic domain
+DOMAIN_LOCATION=/opt/weblogic/user_projects/domains/base_domain
+
+# Set the domain name
+DOMAIN_NAME=base_domain
+
+# Admin credentials for WebLogic
+ADMIN_USER_NAME=weblogic
+ADMIN_PASSWORD=Admin1234
+
+# Admin server port
+ADMIN_SERVER_LISTEN_PORT=7001
+
+# Set to true for production mode or false for development mode
+PRODUCTION_MODE=true
+
+# Specify additional configuration options if needed, e.g., Node Manager
+# Set Node Manager password
+NodemanagerPassword=NodeManager1234
+
+# Specify the path to the Node Manager
+# Enable Node Manager if required
+EnableNodeManager=true
+NodemanagerHome=/opt/weblogic/wlserver/server/bin
+
+# Set the Listen Address for the Admin Server if necessary
+# ADMIN_LISTENER_ADDRESS=127.0.0.1
+
+# Set specific parameters for the domain creation
+# Example: Enable SSL or configure other settings based on requirements.

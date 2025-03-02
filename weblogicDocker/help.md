@@ -1,0 +1,1 @@
+docker tag weblogicdocker:latest salahedin/salahedinhub:latest

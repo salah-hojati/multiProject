@@ -1,0 +1,18 @@
+[ENGINE]
+Response File Version=1.0.0.0.0
+
+[GENERIC]
+ORACLE_HOME=/opt/weblogic
+INSTALL_TYPE=Fusion Middleware Infrastructure
+
+DECLINE_SECURITY_UPDATES=true
+SECURITY_UPDATES_VIA_MYORACLESUPPORT=false
+AUTO_UPDATES_ENABLED=false
+
+
+
+
+[WebLogic]
+# Specify the WebLogic admin username and password
+ADMIN_USER=weblogic
+ADMIN_PASSWORD=welcome1

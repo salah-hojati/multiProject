@@ -1,0 +1,24 @@
+2025-02-20 18:32:39.483456+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 18:32:39.714109+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 18:32:39.746531+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 18:32:42.223154+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 18:32:42.241656+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 18:32:42.258648+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 20:01:48.360190+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
+2025-02-20 20:01:48.417794+03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.description,p1_0.name,p1_0.price from product p1_0 [42104-232]
