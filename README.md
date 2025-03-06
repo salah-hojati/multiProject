@@ -20,10 +20,10 @@ This project was created to find solutions and platforms for some purposes. (I a
 - **Group Chat**
     - Chat Server
     - User Authentication Service
-    - Message Storage and Retrieval
+    - boot.Message Storage and Retrieval
     - Notification Service
     - Online Users Tracking
-    - Encrypted Message Storage
+    - Encrypted boot.Message Storage
     - Real-time Notifications
 
 - **Task Management**
@@ -42,12 +42,12 @@ This project was created to find solutions and platforms for some purposes. (I a
     - Video Transcoding to Multiple Qualities
     - Live Chat During Streaming
 
-- **Message Aggregation from Platforms (e.g., Telegram, Social Networks)**
+- **boot.Message Aggregation from Platforms (e.g., Telegram, Social Networks)**
     - Platform API Integration
-    - Message Filtering and Categorization
+    - boot.Message Filtering and Categorization
     - Analytics and Insights
-    - Centralized Message Dashboard
-    - Automated Message Response Bot
+    - Centralized boot.Message Dashboard
+    - Automated boot.Message Response Bot
 
 ## Frontend (UI)
 

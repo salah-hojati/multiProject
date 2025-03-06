@@ -135,7 +135,7 @@
           }
 
 
-6.  Define the Message Listener (RabbitMqListener.java)
+6.  Define the boot.Message Listener (RabbitMqListener.java)
 
 
     import org.springframework.amqp.rabbit.annotation.RabbitListener;
@@ -199,7 +199,7 @@
         }
         }
 
-8. Send Message (Test Sender)
+8. Send boot.Message (Test Sender)
 
 To test sending messages, create a simple sender.
 
