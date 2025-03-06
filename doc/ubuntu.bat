@@ -90,6 +90,13 @@ Check the default version:
 python3 --version
 
 ************************
+in linux run this usr //
+
+--------
+ python3 -m venv myenv  # Create a virtual environment
+ source myenv/bin/activate  # Activate it
+ pip install -U google-generative  # Install the package
+-----------
 python -m pip install -U aider-chat
 
 # You may need to install google-generativeai
@@ -98,7 +105,7 @@ pip install -U google-generativeai
 # Or with pipx...
 pipx inject aider-chat google-generativeai
 
-export GEMINI_API_KEY=<key> # Mac/Linux
+export GEMINI_API_KEY=AIzaSyA8tRxcNPBFYw0GBjQzLrTNTJI3K5n2oEc # Mac/Linux
 setx   GEMINI_API_KEY <key> # Windows, restart shell after setx
 
 aider --model gemini/gemini-1.5-pro-latest
@@ -106,3 +113,16 @@ aider --model gemini/gemini-1.5-pro-latest
 # List models available from Gemini
 aider --list-models gemini/
 **************************************
+
+. ایجاد یک فولدر جدید
+
+mkdir my_folder
+
+این دستور یک فولدر به نام my_folder در مسیر فعلی ایجاد می‌کند.
+2. ایجاد چندین فولدر به‌صورت همزمان
+
+mkdir folder1 folder2 folder3
+
+این دستور سه فولدر به نام‌های folder1، folder2 و folder3 ایجاد می‌کند.
+
+****************
