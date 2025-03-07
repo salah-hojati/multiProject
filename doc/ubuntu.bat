@@ -106,7 +106,7 @@ pip install -U google-generativeai
 pipx inject aider-chat google-generativeai
 
 export GEMINI_API_KEY=AIzaSyA8tRxcNPBFYw0GBjQzLrTNTJI3K5n2oEc # Mac/Linux
-setx   GEMINI_API_KEY <key> # Windows, restart shell after setx
+setx   GEMINI_API_KEY AIzaSyBivCYOOBmrc8crI-Hb9vcbQ5xFQ4dg90o # Windows, restart shell after setx
 
 aider --model gemini/gemini-1.5-pro-latest
 

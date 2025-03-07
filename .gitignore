@@ -3,3 +3,9 @@
 /weblogicDocker/fmw_12.2.1.3.0_infrastructure.jar/
 /weblogicDocker/jdk-8u441-linux-x64.tar.gz/
 /weblogicDocker/jdk-8u112-linux-x64.tar.gz
+.aider*
+/akka_code_helper/target/
+/akka_code_helper_spring/target/
+/data/
+/Docker_Java/target/
+/.idea/
