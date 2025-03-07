@@ -1,0 +1,1 @@
+npm i -g generator-jhipster@8
