@@ -1,5 +1,10 @@
-- [install on window](./rabbitMq/install_on_window)
-- [install on linux](./rabbitMq/install_ on_linux)
+- [install on window](./rabbitMq/install_on_window.md)
+- [install on linux](./rabbitMq/install_on_linux.md)
+- [install on docker](./rabbitMq/install_on_docker.md)
 - [concept](./rabbitMq/concept.md)
 - [senario](./rabbitMq/csenario.md)
 - 
+- Installing RabbitMQ Cluster Operator in a Kubernetes Cluster
+- Publishers https://www.rabbitmq.com/docs/publishers
+- Installing RabbitMQ Cluster Operator in a Kubernetes Cluster https://www.rabbitmq.com/kubernetes/operator/install-operator
+- Exchanges 
