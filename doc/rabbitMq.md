@@ -1,5 +1,5 @@
-- [install on window](./rabbitMq/install on window.md)
-- [install on linux](./rabbitMq/install on linux.md)
+- [install on window](./rabbitMq/install_on_window)
+- [install on linux](./rabbitMq/install_ on_linux)
 - [concept](./rabbitMq/concept.md)
 - [senario](./rabbitMq/csenario.md)
 - 
