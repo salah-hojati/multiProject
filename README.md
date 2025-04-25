@@ -1,6 +1,6 @@
 # multiProject
 
-This project was created to find solutions and platforms for some purposes. (I am using ChatGPT for help).
+This project was created to find solutions and platforms for some purposes. 
 
 ## Planned Projects
 
