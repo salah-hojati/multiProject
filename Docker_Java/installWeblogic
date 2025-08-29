@@ -1,0 +1,13 @@
+ Step 4: Install WebLogic in Silent Mode
+
+    Run the installer in silent mode:
+
+java -jar fmw_14.1.1.0.0_wls_lite_generic.jar -silent -responseFile /path/to/wls_silent.rsp -invPtrLoc /path/to/oraInst.loc
+
+Example on Windows:
+
+java -jar fmw_14.1.1.0.0_wls_lite_generic.jar -silent -responseFile C:\weblogic\wls_silent.rsp -invPtrLoc C:\weblogic\oraInst.loc
+
+Example on Linux:
+
+java -jar fmw_14.1.1.0.0_wls_lite_generic.jar -silent -responseFile /home/user/wls_silent.rsp -invPt
